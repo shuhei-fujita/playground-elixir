@@ -27,3 +27,16 @@ Erlang ライブラリ
 ## 公式ドキュメント
 
 https://elixir-lang.jp/getting-started/introduction.html
+
+## 環境構築
+
+[TODO]
+- asdf
+
+## 実行方法
+
+[TODO]
+
+```shell
+elixir hello.exs
+```
